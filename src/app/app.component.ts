@@ -9,4 +9,5 @@ export class AppComponent {
 
   contador = 0;
   title = 'ngrx-fie';
+  teste = 'joao'
 }
